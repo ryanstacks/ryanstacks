@@ -1,2 +1,2 @@
-<h2>Contacts</h2>
+<h2>Contact</h2>
 - ryanfrancismail@gmail.com
